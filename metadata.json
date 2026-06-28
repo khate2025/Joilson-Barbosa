@@ -1,0 +1,6 @@
+{
+  "name": "Akis Pintura",
+  "description": "Website institucional premium da Akis Pintura - Pinturas residenciais, comerciais e agendamento inteligente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
